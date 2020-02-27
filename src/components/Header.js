@@ -18,7 +18,7 @@ const Header = (props) => (
         <Bubble
           bubbleClass ={'bubble bubble-top'}
           text1={'Create A'}
-          strongText='POWERFUL!'
+          strongText='POWERFUL'
           text2 = 'Soulution Now!'/>
           <Button/>   
     </header>

@@ -5,13 +5,14 @@ import Button from './Button'
 const developments = [
     {   id:'design',
         title: 'Mostafizur Rahman',
-        description: 'Aliquam tristique eget arcu sit amet scelerisque. Aenean et justo et dui vehicula dignissim. Donec in luctus ante, sit amet euismod augue.'
+        description: 'Aliquam tristique eget arcu sit amet scelerisque. Aenean et justo et dui vehicula dignissim. Donec in luctus ante, sit amet euismod augue.  Donec in luctus ante, sit amet euismod augue'
     },
     {   id : "production",
         title: 'Mostafizur Rahman',
-        description: 'Aliquam tristique eget arcu sit amet scelerisque. Aenean et justo et dui vehicula dignissim. Donec in luctus ante, sit amet euismod augue.'
+        description: '  Donec in luctus ante, sit amet euismod augue. Aliquam tristique eget arcu sit amet scelerisque. Aenean et justo et dui vehicula dignissim. Donec in luctus ante, sit amet euismod augue.'
     }
 ]
+
 
 const Development = ({title,description,id}) => ( 
 <div className='developments_div' id= {id}>  

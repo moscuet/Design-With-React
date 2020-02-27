@@ -5,7 +5,7 @@ const services = [
         icon: 'fa-mobile-alt',
         titleA : 'SUPERBLY',
         titleB: 'RESPONSSIVE',
-        description:'Resource Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sollicitudin massa at ipsum dictum dignissim. Nulla facilisi. Donec blandit vitae erat nec finibus. Aliquam nec varius justo.'
+        description:'Resource Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sollicitudin massa at ipsum dictum dignissim. Nulla facilisi. Donec blandit vitae erat nec finibus. Aliquam nec varius.'
     },
     {
         icon: 'fa-desktop',
