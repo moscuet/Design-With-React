@@ -4,7 +4,8 @@ import serviceList from './Service'
 import RecentWorKs from './RecentWork'
 import Footer from './Footer'
 import Testimonials from './Testimonial';
-import Developments from './Development'
+//import Design from './Design'
+import Development from './Development'
 import InfoBar from './InfoBar';
 import Bubble from './Bubble'
 
@@ -18,7 +19,7 @@ const App = () => (
             <RecentWorKs/>
             <div className='test_dev_container'> 
                 <Testimonials/>
-                <Developments/>
+                <Development/>
             </div>
             <Bubble
             bubbleClass ={'bubble bubble-bottom'}
